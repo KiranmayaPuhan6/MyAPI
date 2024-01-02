@@ -1,0 +1,1 @@
+C:\Dev\MyAPI\MyAPI\.sonarqube\out\0

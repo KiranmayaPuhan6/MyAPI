@@ -1,0 +1,16 @@
+﻿C:\Dev\MyAPI\MyAPI\Controllers\ToDoController.cs
+C:\Dev\MyAPI\MyAPI\Data\AppDbContext.cs
+C:\Dev\MyAPI\MyAPI\Models\Domain\ToDo.cs
+C:\Dev\MyAPI\MyAPI\Models\Dto\PostToDo.cs
+C:\Dev\MyAPI\MyAPI\Models\Dto\ToDoDto.cs
+C:\Dev\MyAPI\MyAPI\Profiles\MapperProfile.cs
+C:\Dev\MyAPI\MyAPI\Program.cs
+C:\Dev\MyAPI\MyAPI\Repository\IToDoRepository.cs
+C:\Dev\MyAPI\MyAPI\Repository\ToDoRepository.cs
+C:\Dev\MyAPI\MyAPI\obj\Debug\net7.0\MyAPI.GlobalUsings.g.cs
+C:\Dev\MyAPI\MyAPI\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+C:\Dev\MyAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfo.cs
+C:\Dev\MyAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\MyAPI\MyAPI\appsettings.Development.json
+C:\Dev\MyAPI\MyAPI\appsettings.json
+C:\Dev\MyAPI\MyAPI\Properties\launchSettings.json
